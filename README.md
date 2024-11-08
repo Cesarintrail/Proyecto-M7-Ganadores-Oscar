@@ -14,3 +14,6 @@ La base de datos considera información sobre la raza, religión, edad y otros d
 
 El dataset contiene 27 columnas, a continuación se realizará un analisis Exploratorio de la información (EDA) con el fin de entender la data, realizar las limpiezas necesarias, identificar y clasificar las variables, eliminar de ser necesarios filas y columnas, etc.
 con el objetivo de poder con el dataset mas limpio y ordenado, realizar proyecciones futuras mediante modelos de regresion, comparar resultados de distintos modelos,  ver sus niveles de confianza y tomar decisiones sobre cual es nuestra mejor opción.
+
+## EDA
+
