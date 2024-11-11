@@ -17,3 +17,10 @@ con el objetivo de poder con el dataset mas limpio y ordenado, realizar proyecci
 
 ## EDA
 
+
+
+## Transformación de Datos
+
+
+## Modelado
+
